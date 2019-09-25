@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">koin-sample</string>
+    <string name="search_by_keywords">Search by nickname</string>
+    <string name="rating">Rating</string>
+    <string name="hours">Hours</string>
+    <string name="distance">Distance</string>
+    <string name="nickname">Nickname</string>
+    <string name="physical">Physical</string>
+    <string name="message">Message</string>
+    <string name="manage_your_booking">Manage your booking</string>
+    <string name="settings">Settings</string>
+    <string name="register_service">Register services to sell</string>
+    <string name="view_edit_profile">My profile</string>
+    <string name="block_unblock">Block/Unblock my schedule</string>
+    <string name="customer_support">Customer support</string>
+    <string name="language_setting">Language settings</string>
+    <string name="translation_setting">Translation settings</string>
+    <string name="sign_up_my_friends">Sign up my friends</string>
+    <string name="Logout">Logout</string>
+    <string name="booking_numer">Booking number &#032;</string>
+    <string name="from">From</string>
+    <string name="until">Until</string>
+
+</resources>
